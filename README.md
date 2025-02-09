@@ -72,7 +72,7 @@
     <td width="50%">
       🌸 <strong>Equinox Florist (E-Commerce Web App)</strong><br>
       - Designed & developed a floral shop website 🌺 <br>
-      - Integrated social media features** for marketing <br>
+      - Integrated social media features for marketing <br>
       - Built using HTML, JavaScript, and backend tools
     </td>
   </tr>
