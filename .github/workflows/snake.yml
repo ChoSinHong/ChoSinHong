@@ -13,7 +13,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: HowellGH
+          github_user_name: ChoSinHong
           svg_out_path: dist/github-contribution-grid-snake.svg
       - name: Push to GitHub
         uses: JamesIves/github-pages-deploy-action@v4
