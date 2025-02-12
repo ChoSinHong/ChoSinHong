@@ -102,13 +102,6 @@
 
 ---
 
-## 🛠 Contribution  
-<p align="center">
-  <img src="https://github.com/ChoSinHong/ChoSinHong/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 🌿 Vibes  
 <p align="center">
   <img src="https://media4.giphy.com/media/jIqh3ym2s7GU/giphy.gif" width="250"/>
