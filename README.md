@@ -114,13 +114,20 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+      <details open>
+        <summary>Full year calendar</summary>
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar">
+      </details>
+      <details>
+        <summary>Half year calendar</summary>
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt="Half Year Calendar">
+      </details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
 </table>
 <!--/header-->
+
 
 
 
@@ -206,13 +213,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChoSinHong&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoSinHong&theme=radical" width="48%"/>
-</p>
-
----
-
-## 🎵 Now Playing (Spotify)  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31i5qogsdmtvpdmkdi4foxpcmyom&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/>
 </p>
 
 ---
