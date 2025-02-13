@@ -126,6 +126,7 @@
 </p>
 
 ---
+
 ## 💼 Internship Experience  
 
 📍 **Aonic Sdn Bhd, Malaysia**  
@@ -147,6 +148,7 @@
 </p>
 
 ---
+
 ## 🛠 Tech & Skills  
 <table align="center">
   <tr>
