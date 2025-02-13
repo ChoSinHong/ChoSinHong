@@ -131,7 +131,7 @@
 
 📍 **Aonic Sdn Bhd, Malaysia**  
 🖥 **Software Department | AI Training**  
-🎯 **Focus:** Oil Palm AI Machine Training Detection  
+🎯 **Focus:** AI-based Oil Palm Detection and Machine Training  
 
 ✅ **Projects Developed:**  
 - Automated Labeling Validator Tool  
@@ -211,20 +211,6 @@
 
 ---
 
-## 📊 GitHub Contribution Graphs  
-
-### 🔥 Contribution Heatmap  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoSinHong&theme=github" />
-</p>
-
-### 🚀 3D Contribution Graph  
-<p align="center">
-  <img src="https://github.com/ChoSinHong/ChoSinHong/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChoSinHong&show_icons=true&theme=radical" width="48%"/>
@@ -235,7 +221,7 @@
 
 ## 🎵 Now Playing (Spotify)  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31i5qogsdmtvpdmkdi4foxpcmyom&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/>
 </p>
 
 ---
