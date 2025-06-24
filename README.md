@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td><b>University Email:</b></td>
-    <td><a href="mailto:chosh-wk23@student.tarc.edu.my">chosh-wk23@student.tarc.edu.my</a></td>
+    <td><a href="mailto:chosh-wk23@student.tarc.edu.my">howell.cho319@gmail.com</a></td>
   </tr>
 </table>
 
